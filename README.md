@@ -23,9 +23,15 @@
 
 首页展示：
 ![img.png](img.png)
+
+
 注册页展示：
 ![img_1.png](img_1.png)
+
+
 居民中心：
 ![img_2.png](img_2.png)
+
+
 管理员中心：
 ![img_3.png](img_3.png)
