@@ -44,3 +44,20 @@
 
 
 ![img_3.png](img_3.png)
+
+
+可通过下拉框筛选查询：
+
+
+![image](https://github.com/user-attachments/assets/ef48b9d5-d799-4cb3-9dd7-481dcc22b035)
+
+可进行修改，修改时有数据回填方便操作：
+
+
+![image](https://github.com/user-attachments/assets/c933584c-1501-4e9d-938c-b3f10fdb6589)
+
+删除有相应提示和数据回填：
+
+
+![Uploading image.png…]()
+
