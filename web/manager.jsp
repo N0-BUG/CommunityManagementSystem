@@ -160,7 +160,7 @@
     </div>
     <div id="right">
         <div>
-            <iframe style="width:1200px;height: auto" id="myFrame" src="/SystemControl?method=resident_list"></iframe>
+            <iframe style="width:1200px;height: 100%" id="myFrame" src="/SystemControl?method=resident_list"></iframe>
         </div>
     </div>
 </div>
