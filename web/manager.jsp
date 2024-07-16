@@ -125,7 +125,9 @@
 <div id="container">
     <div id="logo"></div>
     <div id="title_l">社区管理系统—管理员中心</div>
-
+<%
+        String user_name = (String) request.getSession().getAttribute("user_name");
+    %>
     <div id="title_r">欢迎你：<%=user_name%>
     </div>
     <div id="title_r1">
