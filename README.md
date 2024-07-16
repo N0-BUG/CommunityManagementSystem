@@ -1,0 +1,2 @@
+# CommunityManagementSystem
+基于JavaWeb和jsp编写的社区管理系统
