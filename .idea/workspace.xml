@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="307e2ec0-2522-4d7e-870c-6574b541b88c" name="Changes" comment="">
+    <list default="true" id="307e2ec0-2522-4d7e-870c-6574b541b88c" name="Changes" comment="添加展示页">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -53,8 +55,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721116237765</updated>
-      <workItem from="1721116240318" duration="354000" />
+      <workItem from="1721116240318" duration="1259000" />
     </task>
+    <task id="LOCAL-00001" summary="提添加展示页">
+      <created>1721116685674</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721116685674</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加展示页">
+      <created>1721116826619</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721116826619</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加展示页">
+      <created>1721116882336</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721116882336</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +94,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提添加展示页" />
+    <MESSAGE value="添加展示页" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加展示页" />
   </component>
 </project>

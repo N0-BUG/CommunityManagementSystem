@@ -48,16 +48,16 @@
 
 可通过下拉框筛选查询：
 
+![img_4.png](img_4.png)
 
-![image](https://github.com/user-attachments/assets/ef48b9d5-d799-4cb3-9dd7-481dcc22b035)
 
 可进行修改，修改时有数据回填方便操作：
 
+![img_5.png](img_5.png)
 
-![image](https://github.com/user-attachments/assets/c933584c-1501-4e9d-938c-b3f10fdb6589)
 
 删除有相应提示和数据回填：
 
+![img_6.png](img_6.png)
 
-![Uploading image.png…]()
 
